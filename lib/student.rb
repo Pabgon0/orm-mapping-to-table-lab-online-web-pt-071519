@@ -1,7 +1,7 @@
 class Student
   attr_accessor :id
 
-  def initialize()
+  def initialize(name, grade, id=nil)
   
   end
   
