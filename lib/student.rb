@@ -1,5 +1,5 @@
 class Student
-  attr_accessor :id
+  attr_reader :id
 
   def initialize()
   
